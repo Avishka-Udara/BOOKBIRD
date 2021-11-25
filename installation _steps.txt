@@ -1,0 +1,16 @@
+-+-+-++++++++++++++++++++++++++++++++++++++++++
+
+
+Admin Login
+
+user front end login panel for both user admin
+
+Admin User: admin
+Admin Pass: admin123
+
+
+
+=====================================================
+
+
+ 
